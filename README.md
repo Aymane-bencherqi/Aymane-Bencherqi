@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Aymane Bencherqi!
 
 Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 web and 📱 mobile development, 💻 blockchain solutions, and ⚡ dynamic applications. Here's a glimpse into my key projects and skills:
 
