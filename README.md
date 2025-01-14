@@ -12,8 +12,8 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 - 🍽️ **[Restaurant Menu Web App](https://github.com/username/restaurant-menu)**  
   A robust restaurant menu management system built with **Django**.
 
-- 🛍️ **[5minskin](https://github.com/username/5minskin)**  
-  A sleek e-commerce site for cosmetics using **Node.js**, **Express**, and **MongoDB**.
+- 🔒 **[Decentralized App](https://github.com/username/blockchain-dapp)**  
+  A blockchain-based decentralized application demonstrating secure file management and transaction logging.
 
 ---
 
