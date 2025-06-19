@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 
 ## 🌟 Highlights
 ### 🌐 Web Applications:
-- ⚽ **[Football Web App](https://github.com/username/annuaire-des-joueurs)**  
+- ⚽ **[Football Web App](https://github.com/Aymane-bencherqi/football-app)**  
   A dynamic football player directory using **Node.js**, **Express**, and **MongoDB**.
 
 - 🍽️ **[Restaurant Menu Web App](https://github.com/Aymane-bencherqi/Restaurant-app)**  
