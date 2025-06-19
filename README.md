@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 - 🔒 **[Decentralized App]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))**  
   A blockchain-based decentralized application demonstrating secure file management and transaction logging.
 
-  
+---
 ### 🤖 Artificial Intelligence Projects:
 🧠 **[AI Chatbot for E-learning Platform]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))** 
 An intelligent assistant designed to guide and support students in an educational platform, using NLP and contextual understanding.
