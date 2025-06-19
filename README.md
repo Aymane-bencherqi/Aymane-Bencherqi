@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 ---
 
 ### 🔗 Blockchain Solutions:
-- 🔒 **[Decentralized App](https://github.com/username/blockchain-dapp)**  
+- 🔒 **[Decentralized App]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))**  
   A blockchain-based decentralized application demonstrating secure file management and transaction logging.
 
 ---
