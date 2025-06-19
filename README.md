@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 - ⚽ **[Football Web App](https://github.com/username/annuaire-des-joueurs)**  
   A dynamic football player directory using **Node.js**, **Express**, and **MongoDB**.
 
-- 🍽️ **[Restaurant Menu Web App](https://github.com/username/restaurant-menu)**  
+- 🍽️ **[Restaurant Menu Web App](https://github.com/Aymane-bencherqi/Restaurant-app)**  
   A robust restaurant menu management system built with **Django**.
 
 - 🔒 **[Decentralized App](https://github.com/username/blockchain-dapp)**  
@@ -30,7 +30,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 ---
 
 ### 🛠️ Tools & Utilities:
-- 🖼️ **[Thumbnail Extractor](https://github.com/username/thumbnail-extractor)**  
+- 🖼️ **[Thumbnail Extractor](https://github.com/Aymane-bencherqi/thumbnail-extractor)**  
   A tool to extract and manage thumbnails, built with **Django**.
 
 ---
