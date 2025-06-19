@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aymane Bencherqi!
 
-Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 web and 📱 mobile development, 💻 blockchain solutions, and ⚡ dynamic applications. Here's a glimpse into my key projects and skills:
+Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 web and 📱 mobile development, 💻 blockchain solutions, ⚡ dynamic applications and 🤖 artificial intelligence.. Here's a glimpse into my key projects and skills:
 
 ---
 
@@ -39,6 +39,16 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 - 🔒 **[Decentralized App]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))**  
   A blockchain-based decentralized application demonstrating secure file management and transaction logging.
 
+  
+### 🤖 Artificial Intelligence Projects:
+🧠 **[AI Chatbot for E-learning Platform]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))** 
+An intelligent assistant designed to guide and support students in an educational platform, using NLP and contextual understanding.
+
+🖼️ **AI Image Generator ([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))** 
+A generative AI project that transforms text prompts into high-quality images using deep learning models.
+
+📈 **[Memecoin Prediction App]([https://github.com/username/blockchain-dapp](https://github.com/Aymane-bencherqi/blockchain-file-storage))** 
+An AI-powered tool for analyzing and predicting memecoin trends, leveraging data science and machine learning techniques.
 ---
 
 ## 🛠 Tech Stack
