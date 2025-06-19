@@ -51,17 +51,68 @@ A generative AI project that transforms text prompts into high-quality images us
 An AI-powered tool for analyzing and predicting memecoin trends, leveraging data science and machine learning techniques.
 ---
 
-## 🛠 Tech Stack
-### 🖥️ Languages:
-- 🐍 Python, 💛 JavaScript, 💎 C#, 🎯 Dart, ⛓️ Solidity
+### 🛠 Tech Stack
+## 🖥️ Languages:
+- 🐍 Python, 💛 JavaScript, 💎 C#, 🎯 Dart, ⛓️ Solidity, ☕ Java, 📘 TypeScript, 🟦 SQL, 🧮 Bash
 
-### 📚 Frameworks & Libraries:
-- **Web**: 🌐 Django, Node.js, Express  
-- **Mobile**: 📱 Flutter  
-- **Desktop**: 💻 .NET
+## 📚 Frameworks & Libraries:
+🌐 Web Development:
 
-### 🛠️ Tools & Platforms:
-- 🗄️ MongoDB, 🐘 PostgreSQL, ⛓️ Ethereum (Ganache, Solidity), 🐳 Docker
+- Django, Flask, FastAPI
+
+- Node.js, Express.js, Next.js
+
+- React.js, Vue.js, Angular
+
+## 📱 Mobile Development:
+
+Flutter, React Native
+
+## 💻 Desktop Development:
+
+.NET (WinForms, WPF), Electron.js, Tkinter
+
+## 📊 Data Science & AI:
+
+NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, OpenCV, NLTK, Transformers (Hugging Face)
+
+## 🧪 Testing:
+
+- Jest, Mocha, Pytest, Postman, Selenium, JUnit
+
+## 🛡️ Security & Auth:
+
+- JWT, OAuth 2.0, bcrypt, Passport.js
+
+## 🛠️ Tools & Platforms:
+## 💾 Databases:
+
+- MongoDB, PostgreSQL, MySQL, SQLite, Firebase Realtime DB & Firestore, Redis
+
+## ⚙️ DevOps & Deployment:
+
+- Docker, Kubernetes, GitHub Actions, GitLab CI/CD, Jenkins
+
+- Nginx, Apache, PM2
+
+## ☁️ Cloud & Hosting:
+
+- Heroku, Vercel, Netlify, AWS (EC2, S3, Lambda), Google Cloud Platform, Firebase, Azure
+
+## 🔗 Blockchain:
+
+- Ethereum, Ganache, Truffle, Hardhat, MetaMask, Web3.js, Ethers.js, IPFS, Fleek
+
+## 🧰 Developer Tools:
+
+- Git, GitHub, GitLab, Bitbucket
+
+- VS Code, Postman, Insomnia, Figma
+
+- Swagger/OpenAPI, Notion, Trello, Jira
+
+
+
 
 ---
 
