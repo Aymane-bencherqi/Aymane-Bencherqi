@@ -47,7 +47,7 @@ An intelligent assistant designed to guide and support students in an educationa
 - 🖼️ **[AI Image Generator](https://github.com/Aymane-bencherqi/AI-image-generator)** 
 A generative AI project that transforms text prompts into high-quality images using deep learning models.
 
-- 📈 **[Memecoin Prediction App](https://github.com/Aymane-bencherqi/blockchain-file-storage)** 
+- 📈 **[Memecoin Prediction App](https://github.com/Aymane-bencherqi/Memecoin-bot-prediction)** 
 An AI-powered tool for analyzing and predicting memecoin trends, leveraging data science and machine learning techniques.
 ---
 
