@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 
 ---
 ### 🤖 Artificial Intelligence Projects:
-- 🧠 **[AI Chatbot for E-learning Platform]()** 
+- 🧠 **[AI Chatbot for E-learning Platform](https://github.com/Aymane-bencherqi/E-learning-plateform-with-chatbot)** 
 An intelligent assistant designed to guide and support students in an educational platform, using NLP and contextual understanding.
 
 - 🖼️ **[AI Image Generator](https://github.com/Aymane-bencherqi/AI-image-generator)** 
