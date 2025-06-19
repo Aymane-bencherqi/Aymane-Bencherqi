@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I'm a passionate developer specializing in 🌐 
 - 🍽️ **[Restaurant Menu Web App](https://github.com/Aymane-bencherqi/Restaurant-app)**  
   A robust restaurant menu management system built with **Django**.
 
-- 🔒 **[Decentralized App](https://github.com/username/blockchain-dapp)**  
+- 🔒 **[Decentralized App](https://github.com/Aymane-bencherqi/blockchain-file-storage)**  
   A blockchain-based decentralized application demonstrating secure file management and transaction logging.
 
 ---
